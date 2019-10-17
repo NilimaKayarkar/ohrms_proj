@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="38133" started-at="2019-10-09T21:15:23 IST" finished-at="2019-10-09T21:16:01 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="38133" started-at="2019-10-09T21:15:23 IST" finished-at="2019-10-09T21:16:01 IST">
+      <class name="com.OHRM.testcasescript.HomepageTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.OHRM.testcasescript.HomepageTest@578486a3]" name="beforeTest" is-config="true" duration-ms="38003" started-at="2019-10-09T21:15:23 IST" finished-at="2019-10-09T21:16:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="verifyhomepagetitletest()[pri:0, instance:com.OHRM.testcasescript.HomepageTest@578486a3]" name="verifyhomepagetitletest" duration-ms="54" started-at="2019-10-09T21:16:01 IST" finished-at="2019-10-09T21:16:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyhomepagetitletest -->
+      </class> <!-- com.OHRM.testcasescript.HomepageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
